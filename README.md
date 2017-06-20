@@ -37,7 +37,7 @@ The src folder contains the source code of this game simulation. It contains cod
 with the open source libraries such as the freeglut and irrKlang. 
 
 ### Customizations
-##### Fields
+#### Fields
 You don't have to use the field being provided! You can add or change the field to 
 whatever you want. It can have lots of poison, if you are up for the challenge; lots 
 of pebbles, if you want only the brightest of the ants to be able to navigate through 
@@ -56,7 +56,7 @@ To make your own field, here are just a few restrictions and instructions:
 '2' for anthill 2, and '3' for anthill 3 (0-based indexing)
 * To place a grasshopper, put 'g' 
 
-##### Ants
+#### Ants
 Feel free to program your own ant and see if you can beat the sample ant files provided! 
 Instructions to build your own ant and competition rules are given in the file under the 
 repository folder Instructions. Your Ant files should have a .bug extension. 
